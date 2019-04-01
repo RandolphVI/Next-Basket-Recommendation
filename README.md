@@ -18,11 +18,11 @@ See data format in `data` folder which including the data sample files.
 
 ### Data Format
 
-This repository can be used in other e-commerce datasets by two ways:
+This repository can be used in other e-commerce datasets in two ways:
 1. Modify your datasets into the same format of the sample.
 2. Modify the data preprocess code in `data_helpers.py`.
 
-Anyway, it should depends on what your data and task are.
+Anyway, it should depend on what your data and task are.
 
 ## Network Structure
 
@@ -34,8 +34,8 @@ The framework of DREAM:
 
 1. Pooling operation on the items in a basket to get the representation of the basket. 
 2. The input layer comprises a series of basket representations of a user. 
-3. Dynamic representation of the user can be obtained in the hidden layer.
-4. Finally the output layer shows scores of this user towards all items.
+3. The dynamic representation of the user can be obtained in the hidden layer.
+4. The output layer shows scores of this user towards all items.
 
 References:
 
