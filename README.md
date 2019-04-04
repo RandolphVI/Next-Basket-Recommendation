@@ -1,12 +1,13 @@
 # Deep Learning for Next Basket Recommendation
 
+[![Python Version](https://img.shields.io/badge/language-python3.6-blue.svg)](https://www.python.org/downloads/) [![Build Status](https://travis-ci.org/RandolphVI/Next-Basket-Recommendation.svg?branch=master)](https://travis-ci.org/RandolphVI/Next-Basket-Recommendation) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e704710bf363474d9ef334fd99367216)](https://www.codacy.com/app/chinawolfman/Next-Basket-Recommendation?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RandolphVI/Next-Basket-Recommendation&amp;utm_campaign=Badge_Grade) [![License](https://img.shields.io/github/license/RandolphVI/Next-Basket-Recommendation.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Issues](https://img.shields.io/github/issues/RandolphVI/Next-Basket-Recommendation.svg)](https://github.com/RandolphVI/Next-Basket-Recommendation/issues)
+
 This repository contains my implementations of [DREAM](http://www.nlpr.ia.ac.cn/english/irds/People/sw/DREAM.pdf) for next basket prediction.
 
 ## Requirements
 
 - Python 3.6
 - Pytorch 0.4 +
-- Tensorflow 1.8 +
 - Pandas 0.23 +
 - scikit-learn 0.19 +
 - Numpy
