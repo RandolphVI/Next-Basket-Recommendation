@@ -5,6 +5,7 @@ import os
 import math
 import random
 import time
+import logging
 import pickle
 import torch
 import numpy as np
@@ -13,7 +14,7 @@ from utils import data_helpers as dh
 from config import Config
 from rnn_model import DRModel
 
-
+logging.info("✔︎ DREAM Model Training...")
 logger = dh.logger_fn("torch-log", "logs/training-{0}.log".format(time.asctime()))
 
 dilim = '-' * 120
