@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 __author__ = 'Randolph'
 
-import random
 import pickle
 import pandas as pd
 from tqdm import tqdm
