@@ -15,9 +15,11 @@ This repository contains my implementations of [DREAM](http://www.nlpr.ia.ac.cn/
 
 ## Data
 
-See data format in `data` folder which including the data sample files.
+You can download the [Negative Sample (neg_sample.pickle)](https://drive.google.com/open?id=19SnHlic2DswgyPwr9ul3t9uDsgEsaH1X) used in code. **Make sure they are under the `/data` folder.**
 
 ### Data Format
+
+See data format in `data` folder which including the data sample files.
 
 This repository can be used in other e-commerce datasets in two ways:
 1. Modify your datasets into the same format of the sample.
