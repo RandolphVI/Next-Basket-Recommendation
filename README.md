@@ -1,7 +1,5 @@
 # Deep Learning for Next Basket Recommendation
 
-[![Python Version](https://img.shields.io/badge/language-python3.6-blue.svg)](https://www.python.org/downloads/) [![Build Status](https://travis-ci.org/RandolphVI/Next-Basket-Recommendation.svg?branch=master)](https://travis-ci.org/RandolphVI/Next-Basket-Recommendation) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e704710bf363474d9ef334fd99367216)](https://www.codacy.com/app/chinawolfman/Next-Basket-Recommendation?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RandolphVI/Next-Basket-Recommendation&amp;utm_campaign=Badge_Grade) [![License](https://img.shields.io/github/license/RandolphVI/Next-Basket-Recommendation.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Issues](https://img.shields.io/github/issues/RandolphVI/Next-Basket-Recommendation.svg)](https://github.com/RandolphVI/Next-Basket-Recommendation/issues)
-
 This repository contains my implementations of [DREAM](http://www.nlpr.ia.ac.cn/english/irds/People/sw/DREAM.pdf) for next basket prediction.
 
 ## Requirements
@@ -31,7 +29,7 @@ Anyway, it should depend on what your data and task are.
 
 DREAM uses RNN to capture sequential information of users' shopping behavior. It extracts users' dynamic representations and scores user-item pair by calculating inner products between users' dynamic representations and items' embedding.
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fwqh7ulc4jj318t0cqgms.jpg)
+![](https://live.staticflickr.com/65535/49612979743_33d836d5a4_o.png)
 
 The framework of DREAM:
 
