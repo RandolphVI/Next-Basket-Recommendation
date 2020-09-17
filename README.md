@@ -5,11 +5,12 @@ This repository contains my implementations of [DREAM](http://www.nlpr.ia.ac.cn/
 ## Requirements
 
 - Python 3.6
-- Pytorch 0.4 +
-- Pandas 0.23 +
-- scikit-learn 0.19 +
-- Numpy
-- Gensim
+- Pytorch 1.6.0
+- Pandas 1.1.2
+- Scikit-learn 0.19.1
+- Numpy 1.16.2
+- Gensim 3.5.0
+- Tqdm 4.49.0 
 
 ## Data
 
